@@ -21,7 +21,7 @@ Copyright (c) 2020 Christopher Hahne <info@christopherhahne.de>
 # inspired by version authored by Louise Naud
 
 import numpy as np
-from scipy.misc import face
+from scipy.datasets import face
 import warnings
 
 try:
